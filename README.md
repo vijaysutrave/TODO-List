@@ -1,5 +1,5 @@
-# MyNewRepo
-Repository for a Simple TODO LIST
+# TODO-List
+A Simple TODO LIST
 - Type in your todo to get started
 - Click on check box to checking off the todo
 - Use the tabs to switch between todos
